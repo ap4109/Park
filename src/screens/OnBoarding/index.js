@@ -4,13 +4,9 @@ import styles from "./styles"
 import CustomButton from "../../components/CustomButton/index"
 import { images, theme } from "../../constants/index"
 const { COLORS, SIZES } = theme;
-const { onBoarding1, onBoarding2, onBoarding3 } = images
+const {  onBoarding2, onBoarding3 } = images
 const BoardingData = [
-    {
-        title: "First",
-        description: "uieg3uighuihgu ufh3ufh3h3 fg3fg3f3gh cg3fg3 fg3fg3fg3vgv3ugvu",
-        img: onBoarding1
-    },
+  
     {
         title: "Second",
         description: "uieg3uighuihgu ufh3ufh3h3 fg3fg3f3gh cg3fg3 fg3fg3fg3vgv3ugvu",
